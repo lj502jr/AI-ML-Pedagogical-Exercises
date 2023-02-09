@@ -1,5 +1,5 @@
 
-# nanoGPT
+# nanoGPT from Andrej Karpathy for Educational Purposes
 
 ![nanoGPT](assets/nanogpt.jpg)
 
